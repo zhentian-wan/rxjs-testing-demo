@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3",
+    "rxjs": "^6.5.3"
+  },
+  "devDependencies": {
+    "jasmine": "^4.4.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jasmine"
+  },
+  "author": "Brian Troncone, Ultimate Courses",
+  "license": "MIT"
+}
